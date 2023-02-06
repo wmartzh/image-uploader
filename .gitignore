@@ -6,3 +6,4 @@ yarn.lock
 dist/
 .docker
 /resources
+.DS_Store
